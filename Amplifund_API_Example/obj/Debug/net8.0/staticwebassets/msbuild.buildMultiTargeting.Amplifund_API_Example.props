@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Amplifund_API_Example.props" />
+</Project>

@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sully\\Documents\\Projects\\Amplifund_API_Example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FDD109A-8E33-4F76-83FB-8AF730D05434}|Amplifund_API_Example\\Amplifund_API_Example.csproj|c:\\users\\sully\\documents\\projects\\amplifund_api_example\\amplifund_api_example\\validators\\genericvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FDD109A-8E33-4F76-83FB-8AF730D05434}|Amplifund_API_Example\\Amplifund_API_Example.csproj|solutionrelative:amplifund_api_example\\validators\\genericvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DB1CED-5BE6-456E-847A-E06D7B34D8B9}|Amplifund_API_Example.Tests\\Amplifund_API_Example.Tests.csproj|c:\\users\\sully\\documents\\projects\\amplifund_api_example\\amplifund_api_example.tests\\endpointtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66DB1CED-5BE6-456E-847A-E06D7B34D8B9}|Amplifund_API_Example.Tests\\Amplifund_API_Example.Tests.csproj|solutionrelative:amplifund_api_example.tests\\endpointtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FDD109A-8E33-4F76-83FB-8AF730D05434}|Amplifund_API_Example\\Amplifund_API_Example.csproj|c:\\users\\sully\\documents\\projects\\amplifund_api_example\\amplifund_api_example\\endpoints\\testentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FDD109A-8E33-4F76-83FB-8AF730D05434}|Amplifund_API_Example\\Amplifund_API_Example.csproj|solutionrelative:amplifund_api_example\\endpoints\\testentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FDD109A-8E33-4F76-83FB-8AF730D05434}|Amplifund_API_Example\\Amplifund_API_Example.csproj|c:\\users\\sully\\documents\\projects\\amplifund_api_example\\amplifund_api_example\\controllers\\testtablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FDD109A-8E33-4F76-83FB-8AF730D05434}|Amplifund_API_Example\\Amplifund_API_Example.csproj|solutionrelative:amplifund_api_example\\controllers\\testtablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FDD109A-8E33-4F76-83FB-8AF730D05434}|Amplifund_API_Example\\Amplifund_API_Example.csproj|c:\\users\\sully\\documents\\projects\\amplifund_api_example\\amplifund_api_example\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FDD109A-8E33-4F76-83FB-8AF730D05434}|Amplifund_API_Example\\Amplifund_API_Example.csproj|solutionrelative:amplifund_api_example\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FDD109A-8E33-4F76-83FB-8AF730D05434}|Amplifund_API_Example\\Amplifund_API_Example.csproj|c:\\users\\sully\\documents\\projects\\amplifund_api_example\\amplifund_api_example\\repositories\\sqlrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FDD109A-8E33-4F76-83FB-8AF730D05434}|Amplifund_API_Example\\Amplifund_API_Example.csproj|solutionrelative:amplifund_api_example\\repositories\\sqlrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FDD109A-8E33-4F76-83FB-8AF730D05434}|Amplifund_API_Example\\Amplifund_API_Example.csproj|c:\\users\\sully\\documents\\projects\\amplifund_api_example\\amplifund_api_example\\controllers\\genericcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FDD109A-8E33-4F76-83FB-8AF730D05434}|Amplifund_API_Example\\Amplifund_API_Example.csproj|solutionrelative:amplifund_api_example\\controllers\\genericcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FDD109A-8E33-4F76-83FB-8AF730D05434}|Amplifund_API_Example\\Amplifund_API_Example.csproj|c:\\users\\sully\\documents\\projects\\amplifund_api_example\\amplifund_api_example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FDD109A-8E33-4F76-83FB-8AF730D05434}|Amplifund_API_Example\\Amplifund_API_Example.csproj|solutionrelative:amplifund_api_example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FDD109A-8E33-4F76-83FB-8AF730D05434}|Amplifund_API_Example\\Amplifund_API_Example.csproj|c:\\users\\sully\\documents\\projects\\amplifund_api_example\\amplifund_api_example\\endpoints\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FDD109A-8E33-4F76-83FB-8AF730D05434}|Amplifund_API_Example\\Amplifund_API_Example.csproj|solutionrelative:amplifund_api_example\\endpoints\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FDD109A-8E33-4F76-83FB-8AF730D05434}|Amplifund_API_Example\\Amplifund_API_Example.csproj|c:\\users\\sully\\documents\\projects\\amplifund_api_example\\amplifund_api_example\\contexts\\sqldatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FDD109A-8E33-4F76-83FB-8AF730D05434}|Amplifund_API_Example\\Amplifund_API_Example.csproj|solutionrelative:amplifund_api_example\\contexts\\sqldatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FDD109A-8E33-4F76-83FB-8AF730D05434}|Amplifund_API_Example\\Amplifund_API_Example.csproj|c:\\users\\sully\\documents\\projects\\amplifund_api_example\\amplifund_api_example\\validators\\ivalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FDD109A-8E33-4F76-83FB-8AF730D05434}|Amplifund_API_Example\\Amplifund_API_Example.csproj|solutionrelative:amplifund_api_example\\validators\\ivalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FDD109A-8E33-4F76-83FB-8AF730D05434}|Amplifund_API_Example\\Amplifund_API_Example.csproj|c:\\users\\sully\\documents\\projects\\amplifund_api_example\\amplifund_api_example\\endpoints\\baseendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FDD109A-8E33-4F76-83FB-8AF730D05434}|Amplifund_API_Example\\Amplifund_API_Example.csproj|solutionrelative:amplifund_api_example\\endpoints\\baseendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FDD109A-8E33-4F76-83FB-8AF730D05434}|Amplifund_API_Example\\Amplifund_API_Example.csproj|c:\\users\\sully\\documents\\projects\\amplifund_api_example\\amplifund_api_example\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9FDD109A-8E33-4F76-83FB-8AF730D05434}|Amplifund_API_Example\\Amplifund_API_Example.csproj|solutionrelative:amplifund_api_example\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FDD109A-8E33-4F76-83FB-8AF730D05434}|Amplifund_API_Example\\Amplifund_API_Example.csproj|c:\\users\\sully\\documents\\projects\\amplifund_api_example\\amplifund_api_example\\repositories\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FDD109A-8E33-4F76-83FB-8AF730D05434}|Amplifund_API_Example\\Amplifund_API_Example.csproj|solutionrelative:amplifund_api_example\\repositories\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FDD109A-8E33-4F76-83FB-8AF730D05434}|Amplifund_API_Example\\Amplifund_API_Example.csproj|c:\\users\\sully\\documents\\projects\\amplifund_api_example\\amplifund_api_example\\controllers\\iapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FDD109A-8E33-4F76-83FB-8AF730D05434}|Amplifund_API_Example\\Amplifund_API_Example.csproj|solutionrelative:amplifund_api_example\\controllers\\iapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 88,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 312,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\sully\\Documents\\Projects\\Amplifund_API_Example\\Amplifund_API_Example\\Endpoints\\Person.cs",
+              "RelativeDocumentMoniker": "Amplifund_API_Example\\Endpoints\\Person.cs",
+              "ToolTip": "C:\\Users\\sully\\Documents\\Projects\\Amplifund_API_Example\\Amplifund_API_Example\\Endpoints\\Person.cs",
+              "RelativeToolTip": "Amplifund_API_Example\\Endpoints\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:33:43.94Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SQLRepo.cs",
+              "DocumentMoniker": "C:\\Users\\sully\\Documents\\Projects\\Amplifund_API_Example\\Amplifund_API_Example\\Repositories\\SQLRepo.cs",
+              "RelativeDocumentMoniker": "Amplifund_API_Example\\Repositories\\SQLRepo.cs",
+              "ToolTip": "C:\\Users\\sully\\Documents\\Projects\\Amplifund_API_Example\\Amplifund_API_Example\\Repositories\\SQLRepo.cs",
+              "RelativeToolTip": "Amplifund_API_Example\\Repositories\\SQLRepo.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAmwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T14:51:45.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericController.cs",
+              "DocumentMoniker": "C:\\Users\\sully\\Documents\\Projects\\Amplifund_API_Example\\Amplifund_API_Example\\Controllers\\GenericController.cs",
+              "RelativeDocumentMoniker": "Amplifund_API_Example\\Controllers\\GenericController.cs",
+              "ToolTip": "C:\\Users\\sully\\Documents\\Projects\\Amplifund_API_Example\\Amplifund_API_Example\\Controllers\\GenericController.cs",
+              "RelativeToolTip": "Amplifund_API_Example\\Controllers\\GenericController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:47:32.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EndpointTests.cs",
+              "DocumentMoniker": "C:\\Users\\sully\\Documents\\Projects\\Amplifund_API_Example\\Amplifund_API_Example.Tests\\EndpointTests.cs",
+              "RelativeDocumentMoniker": "Amplifund_API_Example.Tests\\EndpointTests.cs",
+              "ToolTip": "C:\\Users\\sully\\Documents\\Projects\\Amplifund_API_Example\\Amplifund_API_Example.Tests\\EndpointTests.cs",
+              "RelativeToolTip": "Amplifund_API_Example.Tests\\EndpointTests.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAA3wA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T00:28:44.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestEntity.cs",
+              "DocumentMoniker": "C:\\Users\\sully\\Documents\\Projects\\Amplifund_API_Example\\Amplifund_API_Example\\Endpoints\\TestEntity.cs",
+              "RelativeDocumentMoniker": "Amplifund_API_Example\\Endpoints\\TestEntity.cs",
+              "ToolTip": "C:\\Users\\sully\\Documents\\Projects\\Amplifund_API_Example\\Amplifund_API_Example\\Endpoints\\TestEntity.cs",
+              "RelativeToolTip": "Amplifund_API_Example\\Endpoints\\TestEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T23:17:59.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\sully\\Documents\\Projects\\Amplifund_API_Example\\Amplifund_API_Example\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "Amplifund_API_Example\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\sully\\Documents\\Projects\\Amplifund_API_Example\\Amplifund_API_Example\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "Amplifund_API_Example\\Controllers\\PersonController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:35:52.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SqlDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\sully\\Documents\\Projects\\Amplifund_API_Example\\Amplifund_API_Example\\Contexts\\SqlDataContext.cs",
+              "RelativeDocumentMoniker": "Amplifund_API_Example\\Contexts\\SqlDataContext.cs",
+              "ToolTip": "C:\\Users\\sully\\Documents\\Projects\\Amplifund_API_Example\\Amplifund_API_Example\\Contexts\\SqlDataContext.cs",
+              "RelativeToolTip": "Amplifund_API_Example\\Contexts\\SqlDataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:47:28.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sully\\Documents\\Projects\\Amplifund_API_Example\\Amplifund_API_Example\\Program.cs",
+              "RelativeDocumentMoniker": "Amplifund_API_Example\\Program.cs",
+              "ToolTip": "C:\\Users\\sully\\Documents\\Projects\\Amplifund_API_Example\\Amplifund_API_Example\\Program.cs",
+              "RelativeToolTip": "Amplifund_API_Example\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:45:00.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\sully\\Documents\\Projects\\Amplifund_API_Example\\Amplifund_API_Example\\Repositories\\IRepo.cs",
+              "RelativeDocumentMoniker": "Amplifund_API_Example\\Repositories\\IRepo.cs",
+              "ToolTip": "C:\\Users\\sully\\Documents\\Projects\\Amplifund_API_Example\\Amplifund_API_Example\\Repositories\\IRepo.cs",
+              "RelativeToolTip": "Amplifund_API_Example\\Repositories\\IRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T15:28:25.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestTableController.cs",
+              "DocumentMoniker": "C:\\Users\\sully\\Documents\\Projects\\Amplifund_API_Example\\Amplifund_API_Example\\Controllers\\TestTableController.cs",
+              "RelativeDocumentMoniker": "Amplifund_API_Example\\Controllers\\TestTableController.cs",
+              "ToolTip": "C:\\Users\\sully\\Documents\\Projects\\Amplifund_API_Example\\Amplifund_API_Example\\Controllers\\TestTableController.cs",
+              "RelativeToolTip": "Amplifund_API_Example\\Controllers\\TestTableController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T23:16:35.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\sully\\Documents\\Projects\\Amplifund_API_Example\\Amplifund_API_Example\\Endpoints\\BaseEndpoint.cs",
+              "RelativeDocumentMoniker": "Amplifund_API_Example\\Endpoints\\BaseEndpoint.cs",
+              "ToolTip": "C:\\Users\\sully\\Documents\\Projects\\Amplifund_API_Example\\Amplifund_API_Example\\Endpoints\\BaseEndpoint.cs",
+              "RelativeToolTip": "Amplifund_API_Example\\Endpoints\\BaseEndpoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:52:56.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sully\\Documents\\Projects\\Amplifund_API_Example\\Amplifund_API_Example\\appsettings.json",
+              "RelativeDocumentMoniker": "Amplifund_API_Example\\appsettings.json",
+              "ToolTip": "C:\\Users\\sully\\Documents\\Projects\\Amplifund_API_Example\\Amplifund_API_Example\\appsettings.json",
+              "RelativeToolTip": "Amplifund_API_Example\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-10T19:17:19.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IApiController.cs",
+              "DocumentMoniker": "C:\\Users\\sully\\Documents\\Projects\\Amplifund_API_Example\\Amplifund_API_Example\\Controllers\\IApiController.cs",
+              "RelativeDocumentMoniker": "Amplifund_API_Example\\Controllers\\IApiController.cs",
+              "ToolTip": "C:\\Users\\sully\\Documents\\Projects\\Amplifund_API_Example\\Amplifund_API_Example\\Controllers\\IApiController.cs",
+              "RelativeToolTip": "Amplifund_API_Example\\Controllers\\IApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T14:50:21.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "4b091076-dc7f-4e69-a7b5-408bd4a3aecf",
+        "Display": 1,
+        "X": 135,
+        "Y": 119,
+        "Width": 1313,
+        "Height": 693,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IValidator.cs",
+              "DocumentMoniker": "C:\\Users\\sully\\Documents\\Projects\\Amplifund_API_Example\\Amplifund_API_Example\\Validators\\IValidator.cs",
+              "RelativeDocumentMoniker": "Amplifund_API_Example\\Validators\\IValidator.cs",
+              "ToolTip": "C:\\Users\\sully\\Documents\\Projects\\Amplifund_API_Example\\Amplifund_API_Example\\Validators\\IValidator.cs",
+              "RelativeToolTip": "Amplifund_API_Example\\Validators\\IValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T23:31:18.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenericValidator.cs",
+              "DocumentMoniker": "C:\\Users\\sully\\Documents\\Projects\\Amplifund_API_Example\\Amplifund_API_Example\\Validators\\GenericValidator.cs",
+              "RelativeDocumentMoniker": "Amplifund_API_Example\\Validators\\GenericValidator.cs",
+              "ToolTip": "C:\\Users\\sully\\Documents\\Projects\\Amplifund_API_Example\\Amplifund_API_Example\\Validators\\GenericValidator.cs",
+              "RelativeToolTip": "Amplifund_API_Example\\Validators\\GenericValidator.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowDYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T23:32:56.669Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
